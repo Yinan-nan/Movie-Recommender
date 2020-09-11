@@ -1,0 +1,48 @@
+body {
+	background-color: #757575;
+	color: #000000;
+}
+
+.card {
+	background-color: #D7DBDD;
+}
+
+img.poster {
+    float: left;
+    object-fit: cover;
+}
+
+@media (min-width: 768px) {
+  .row.equal {
+    display: flex;
+    flex-wrap: wrap;
+  }
+}
+
+.jumbotron {
+  background-image: url('https://images.unsplash.com/photo-1542204165-65bf26472b9b?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1267&q=80');
+  background-size: cover;
+  /* background-color: #e50914; */
+  height: 100%;
+  font-size: 1.4em;
+}
+
+/*.jumbotron h1 {
+	font-size: 3em;
+	font-family: 'PT Sans Narrow', sans-serif;
+	font-weight: 400;
+}*/
+
+.jumbotron h1 span {
+	font-weight: 700;
+}
+
+div.genres {
+	color: #707B7C;
+}
+
+hr {
+    border: 0;
+    height: 1px;
+    background-image: linear-gradient(to right, rgba(0, 0, 0, 0), rgba(0, 0, 0, 0.75), rgba(0, 0, 0, 0));
+}
