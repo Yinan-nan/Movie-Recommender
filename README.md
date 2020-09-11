@@ -37,6 +37,11 @@ Extract popular movies from the dataset with more than 5000 ratings and show the
 - Find the raters who have the most similarities with the user.
 - From the movies rated by the raters found above, find top scored movies.
 
+### Other Tools
+**Heroku** : Heroku is a cloud platform as a service supporting several programming languages. 
+**AWS RDS** : Amazon Relational Database Service is a distributed relational database service by Amazon Web Services.
+**Bootstrap** : Bootstrap is a free and open-source CSS framework directed at responsive, mobile-first front-end web development.
+**Thymeleaf** : Thymeleaf is a modern server-side Java template engine for both web and standalone environments. 
 
 
 
