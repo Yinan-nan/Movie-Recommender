@@ -20,11 +20,11 @@ You could find the application here: https://java-movie-recommendation.herokuapp
 Raters have different rating habits. Some raters tend to give high rating scores while some raters tend to give lower rating scores. Some raters tend to give wide range of scores while some raters tend to give socres in narrow range.  Z-scores normalization effectively solves this problem.
 
 Z-scores Normalization : It is calculated by subtracting the rating mean and then dividing the difference by the rating standard deviation. 
-- ![equation](http://www.sciweavers.org/tex2img.php?eq=%20z%3D%5Cfrac%7Bx-%5Cmu%7D%7B%5Csigma%7D&bc=White&fc=Black&im=jpg&fs=12&ff=arev&edit=0)
+- ![equation](http://www.sciweavers.org/tex2img.php?eq=z%3D%20%5Cfrac%7Bx-%5Cmu%7D%7B%5Csigma%7D%20&bc=White&fc=Black&im=jpg&fs=12&ff=arev&edit=0)
 
 where : 
 - ![equation](http://www.sciweavers.org/tex2img.php?eq=%5Cmu&bc=White&fc=Black&im=jpg&fs=12&ff=arev&edit=0) is the mean of the ratings
-- ![equation](http://www.sciweavers.org/tex2img.php?eq=%5Csigma&bc=White&fc=Black&im=jpg&fs=12&ff=arev&edit=0) is the standard deviation of the ratings
+- ![equation](https://bit.ly/2FGLngR) is the standard deviation of the ratings
 
 
 **Select Popular Movies:**
